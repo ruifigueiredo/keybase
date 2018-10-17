@@ -20,9 +20,13 @@ $ gpg --edit-key MYEMAIL@DOMAIN.COM
 # Inside the gnupg shell:
 
 gpg> adduid
+
 Real name: YOUR NAME
+
 Email address: MYOTHEREMAIL@DOMAIN.COM
+
 Comment: <just left empty, hit enter>
+
 Out of the gnupg shell, update your keybase account with the new public key:
 
 $ keybase pgp update
