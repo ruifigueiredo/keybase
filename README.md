@@ -26,6 +26,7 @@ Comment: <just left empty, hit enter>
 Out of the gnupg shell, update your keybase account with the new public key:
 
 $ keybase pgp update
-# Check your new public key: keybase pgp export
 
-# Update your github or whatever accounts you need to recognize the new email as "verified".
+Check your new public key: keybase pgp export
+
+Update your github or whatever accounts you need to recognize the new email as "verified".
